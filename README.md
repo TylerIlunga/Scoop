@@ -1,4 +1,4 @@
 # Scoop
-CodeDay Application
+CodeDay LA 2015  Application
 
 
